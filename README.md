@@ -30,7 +30,7 @@ The UI and feature set is heavily inspired by City of Data, though this version 
 
 ## Installation
 
-1. Download the latest executable from this repository
+1. Download the latest executable from the [Releases page](../../releases/latest)
 2. Save the executable to a folder of your choice
 3. Run the application
 4. Select your Homecoming installation directory if prompted
